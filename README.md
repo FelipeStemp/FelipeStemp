@@ -1,20 +1,27 @@
-<h1 align="center">Olá 👋, sou Felipe</h1>
-<h3 align="center">Sou um desenvolvedor BackEnd</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipestemp&label=Profile%20views&color=0e75b6&style=flat" alt="felipestemp" /> </p>
 
-- 🔭 Atualmente estou trabalhando em **BRK**
+<div>
+  <h1 align='center'>Hi, I'm Felipe Stempkowski</h1>
+</div>
 
-- 🌱 Atualmente estou aprendendo **NodeJs e TypeScript**
+<div align='center'>
 
-- 📫 Como entrar em contato comigo **felipestempkowski2@gmail.com**
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipestemp&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/felipe-stempkowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/felipe-stempkowski" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://github.com/FelipeStemp">
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipestemp&show_icons=true&locale=en&layout=compact" alt="felipestemp" /></p>
+ <div align="center"><br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,python,html,nodejs,react,css&perline=4)](https://skillicons.dev)
+
+</div>
+
+ <div align="center">
+  <a href="www.linkedin.com/in/felipe-stempkowski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+  ![Github Visitors](https://komarev.com/ghpvc/?username=FelipeStemp)
+</div>
